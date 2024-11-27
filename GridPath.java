@@ -3,6 +3,7 @@ public class GridPath {
 
     public Location getNextLoc(int row, int col) {
         return null;
+        
     }
 
     public int sumPath(int row, int col) {
